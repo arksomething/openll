@@ -72,7 +72,7 @@ console.log(completion.choices[0].message.content);`;
       <section className="hero">
         <div className="hero-content">
           <h1>Introducing OpenII</h1>
-          <p className="hero-subtitle">The next generation of AI assistance</p>
+          <p className="hero-subtitle">Experience Intern Intelligence. The next generation of AI assistance</p>
           <div className="hero-cta">
             <button className="cta-button primary" onClick={() => window.open('https://join.slack.com/t/testbot-1bk4088/shared_invite/zt-364puwdom-E8eDela7a7PeYJVtXGatpQ', '_blank', 'noopener,noreferrer')}>Try OpenII</button>
             <a
